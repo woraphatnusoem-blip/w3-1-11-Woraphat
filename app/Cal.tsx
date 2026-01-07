@@ -26,7 +26,7 @@ function calSquare(){
 
   return (
     <SafeAreaView>
-      <Text>คำนวณพื้นที่สี่เหลี่ยมจัตุรัส</Text>
+      <Text>คำนวณพื้นที่สี่เหลี่ยมจัตุรัส2</Text>
       <Text>ด้าน :  {side} ,พื้นที่ : {area}</Text>
       <TextInput
           style={{borderWidth:1}}
